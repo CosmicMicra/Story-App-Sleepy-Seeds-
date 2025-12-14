@@ -22,8 +22,7 @@ Run application:
 streamlit run app.py
 ```
 
-###Or Use Docker Build
-
+### Or Use Docker Build
 
 **Build Docker image**
 ```
@@ -33,7 +32,6 @@ docker build -t sleepy-seeds
 ```
 docker run -p 8501:8501 sleepy-seeds
 ```
-
 
 
 ### Directory Structure:
@@ -57,7 +55,7 @@ sleepy-seeds/
 
 
 
-###Example Usage & Test Cases:
+### Example Usage & Test Cases:
 
 **Normal Input:**
 “Tell me a bedtime story about a princess who loves flowers.”
